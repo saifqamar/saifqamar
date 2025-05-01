@@ -22,7 +22,6 @@ Whether it's crafting pixel-perfect UIs, architecting mobile apps in React Nativ
 - **Design:** UX/UI, wireframing, user-centered design thinking
 - **AI Exploration:** Integrating AI tools/APIs for smarter features
 - **Creative Side Projects:** Unity, gamification, interactive prototypes
-- **Currently Learning:** Python (for scripting, automation, and backend exploration)
 
 ---
 
