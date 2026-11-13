@@ -1,6 +1,11 @@
+## Hi, I'm Saif 👋
 
+**AI Engineer** building LLM agents, RAG pipelines, and backend systems.
 
-Saif Qamar — Backend-focused Software Engineer
-Building BuzzMap — a real-time venue intelligence platform on Node.js, TypeScript, and MongoDB. I work on geospatial data pipelines, multi-source API ingestion, web scraping infrastructure, and live scoring systems.
-Currently working with: Node.js · TypeScript · MongoDB · Redis · React · Puppeteer · DuckDB
-📧 saifqamaron@gmail.com · [LinkedIn](https://www.linkedin.com/in/saif-qamar-6036561a6/)
+- 🔭 Currently building healthcare AI agents at **Innovaria Tech**: tool calling, output verification, and self-repairing multi-step workflows
+- 🧠 Interested in agent reliability, retrieval, and making LLMs production-ready
+- 🌍 Rawalpindi, Pakistan · Open to remote
+
+**Tech:** Python · TypeScript · FastAPI · Node.js · LangGraph · LangChain · Anthropic / OpenAI / Gemini · PostgreSQL + pgvector · Redis · Docker · AWS
+
+🌐 [Portfolio](https://saifqamar.netlify.app) · 💼 [LinkedIn](https://www.linkedin.com/in/saifqamar) · 📧 saifqamaron@gmail.com
